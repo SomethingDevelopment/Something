@@ -1,0 +1,15 @@
+@echo off
+echo hello
+pause
+echo i can do this
+title something
+pause
+echo cool, right?
+pause
+echo i can also do this
+md %random%
+pause
+echo admit it, you're impressed!
+pause
+echo bye!
+pause
